@@ -1,1 +1,4 @@
-Requirementsnumpypandasscikit-learn
+## Requirements
+1. numpy
+2. pandas
+3. scikit-learn
